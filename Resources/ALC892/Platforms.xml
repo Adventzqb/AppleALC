@@ -87,7 +87,7 @@
 							</dict>
 							<dict>
 								<key>Boost</key>
-								<integer>1</integer>
+								<integer>3</integer>
 								<key>NodeID</key>
 								<integer>25</integer>
 							</dict>
@@ -157,7 +157,7 @@
 							</dict>
 							<dict>
 								<key>Boost</key>
-								<integer>1</integer>
+								<integer>3</integer>
 								<key>NodeID</key>
 								<integer>24</integer>
 							</dict>
@@ -233,6 +233,8 @@
 							</dict>
 						</array>
 					</array>
+				</array>
+				<array>
 					<array>
 						<array>
 							<dict>
@@ -301,6 +303,8 @@
 							</dict>
 						</array>
 					</array>
+				</array>
+				<array>
 					<array>
 						<array>
 							<dict>
@@ -386,7 +390,7 @@
 				</array>
 			</array>
 			<key>PathMapID</key>
-			<integer>892</integer>
+			<integer>1</integer>
 		</dict>
 	</array>
 </dict>
