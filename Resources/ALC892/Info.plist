@@ -13,22 +13,20 @@
 		<key>Layouts</key>
 		<array>
 			<dict>
-				<key>Comment</key>
 				<key>Id</key>
 				<integer>1</integer>
 				<key>Path</key>
 				<string>layout1.xml.zlib</string>
-			</dict>			
+			</dict>
 		</array>
 		<key>Platforms</key>
 		<array>
 			<dict>
-				<key>Comment</key>				
 				<key>Id</key>
 				<integer>1</integer>
 				<key>Path</key>
 				<string>Platforms.xml.zlib</string>
-			</dict>			
+			</dict>
 		</array>
 	</dict>
 	<key>Patches</key>
