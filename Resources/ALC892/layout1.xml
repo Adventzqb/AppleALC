@@ -32,7 +32,7 @@
 				<key>DefaultVolume</key>
 				<integer>4293722112</integer>
 				<key>MaximumBootBeepValue</key>
-				<integer>64</integer>
+				<integer>48</integer>
 				<key>MuteGPIO</key>
 				<integer>0</integer>
 				<key>SignalProcessing</key>
@@ -885,8 +885,6 @@
 					</dict>
 				</dict>
 			</dict>
-			<key>LineOut</key>
-			<dict/>
 			<key>Mic</key>
 			<dict>
 				<key>MuteGPIO</key>
@@ -988,13 +986,9 @@
 			<array>
 				<string>IntSpeaker</string>
 				<string>Headphone</string>
-				<string>LineOut</string>
-				<string>SPDIFOut</string>
 			</array>
 			<key>PathMapID</key>
 			<integer>1</integer>
-			<key>SPDIFOut</key>
-			<dict/>
 		</dict>
 	</array>
 </dict>
