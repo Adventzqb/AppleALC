@@ -280,9 +280,15 @@
 									<array>
 										<dict>
 											<key>Bind</key>
-											<integer>0</integer>
+											<integer>1</integer>
 											<key>Channel</key>
-											<integer>4</integer>
+											<integer>1</integer>
+										</dict>
+										<dict>
+											<key>Bind</key>
+											<integer>2</integer>
+											<key>Channel</key>
+											<integer>2</integer>
 										</dict>
 									</array>
 									<key>MuteInputAmp</key>
@@ -296,20 +302,6 @@
 								</dict>
 								<key>NodeID</key>
 								<integer>4</integer>
-							</dict>
-						</array>
-					</array>
-				</array>
-				<array>
-					<array>
-						<array>
-							<dict>
-								<key>NodeID</key>
-								<integer>30</integer>
-							</dict>
-							<dict>
-								<key>NodeID</key>
-								<integer>6</integer>
 							</dict>
 						</array>
 					</array>
