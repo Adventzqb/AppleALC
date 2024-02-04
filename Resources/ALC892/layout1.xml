@@ -12,10 +12,7 @@
 				<integer>283904146</integer>
 			</array>
 			<key>Headphone</key>
-			<dict>
-				<key>DefaultVolume</key>
-				<integer>4292870144</integer>
-			</dict>
+			<dict/>
 			<key>Inputs</key>
 			<array>
 				<string>Mic</string>
@@ -23,8 +20,6 @@
 			</array>
 			<key>IntSpeaker</key>
 			<dict>
-				<key>DefaultVolume</key>
-				<integer>4293722112</integer>
 				<key>MaximumBootBeepValue</key>
 				<integer>64</integer>
 				<key>MuteGPIO</key>
