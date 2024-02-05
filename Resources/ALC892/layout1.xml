@@ -122,6 +122,11 @@
 					</dict>
 				</dict>
 			</dict>
+			<key>LineOut</key>
+			<dict>
+				<key>MuteGPIO</key>
+				<integer>1</integer>
+			</dict>
 			<key>Mic</key>
 			<dict>
 				<key>MuteGPIO</key>
@@ -223,6 +228,7 @@
 			<array>
 				<string>IntSpeaker</string>
 				<string>Headphone</string>
+				<string>LineOut</string>
 			</array>
 			<key>PathMapID</key>
 			<integer>1</integer>
