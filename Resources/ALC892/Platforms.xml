@@ -87,7 +87,7 @@
 							</dict>
 							<dict>
 								<key>Boost</key>
-								<integer>3</integer>
+								<integer>1</integer>
 								<key>NodeID</key>
 								<integer>24</integer>
 							</dict>
@@ -157,7 +157,7 @@
 							</dict>
 							<dict>
 								<key>Boost</key>
-								<integer>3</integer>
+								<integer>1</integer>
 								<key>NodeID</key>
 								<integer>25</integer>
 							</dict>
@@ -168,32 +168,6 @@
 					<array>
 						<array>
 							<dict>
-								<key>Amp</key>
-								<dict>
-									<key>Channels</key>
-									<array>
-										<dict>
-											<key>Bind</key>
-											<integer>1</integer>
-											<key>Channel</key>
-											<integer>1</integer>
-										</dict>
-										<dict>
-											<key>Bind</key>
-											<integer>2</integer>
-											<key>Channel</key>
-											<integer>2</integer>
-										</dict>
-									</array>
-									<key>MuteInputAmp</key>
-									<false/>
-									<key>PublishMute</key>
-									<true/>
-									<key>PublishVolume</key>
-									<false/>
-									<key>VolumeInputAmp</key>
-									<false/>
-								</dict>
 								<key>NodeID</key>
 								<integer>20</integer>
 							</dict>
@@ -262,32 +236,6 @@
 					<array>
 						<array>
 							<dict>
-								<key>Amp</key>
-								<dict>
-									<key>Channels</key>
-									<array>
-										<dict>
-											<key>Bind</key>
-											<integer>1</integer>
-											<key>Channel</key>
-											<integer>1</integer>
-										</dict>
-										<dict>
-											<key>Bind</key>
-											<integer>2</integer>
-											<key>Channel</key>
-											<integer>2</integer>
-										</dict>
-									</array>
-									<key>MuteInputAmp</key>
-									<false/>
-									<key>PublishMute</key>
-									<true/>
-									<key>PublishVolume</key>
-									<false/>
-									<key>VolumeInputAmp</key>
-									<true/>
-								</dict>
 								<key>NodeID</key>
 								<integer>27</integer>
 							</dict>
@@ -356,32 +304,6 @@
 					<array>
 						<array>
 							<dict>
-								<key>Amp</key>
-								<dict>
-									<key>Channels</key>
-									<array>
-										<dict>
-											<key>Bind</key>
-											<integer>1</integer>
-											<key>Channel</key>
-											<integer>1</integer>
-										</dict>
-										<dict>
-											<key>Bind</key>
-											<integer>2</integer>
-											<key>Channel</key>
-											<integer>2</integer>
-										</dict>
-									</array>
-									<key>MuteInputAmp</key>
-									<false/>
-									<key>PublishMute</key>
-									<true/>
-									<key>PublishVolume</key>
-									<false/>
-									<key>VolumeInputAmp</key>
-									<false/>
-								</dict>
 								<key>NodeID</key>
 								<integer>22</integer>
 							</dict>
