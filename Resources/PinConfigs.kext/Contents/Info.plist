@@ -34,13 +34,13 @@
 					<key>CodecID</key>
 					<integer>283904146</integer>
 					<key>ConfigData</key>
-					<data>AbccEAG3HQEBtx4TAbcfkAFHHCABRx1AAUceIQFHHwEBZxwwAWcdAQFnHhMBZx+QAZccUAGXHQEBlx6nAZcfkAGHHGABhx2QAYcegQGHHwEBFxxAARcdAAEXHgABFx/wASccQAEnHQABJx4AAScf8AFXHEABVx0AAVceAAFXH/ABdxxAAXcdAAF3HgABdx/wAaccQAGnHQABpx4AAacf8AHHHEABxx0AAcceAAHHH/AB1xxAAdcdAAHXHgAB1x/wAeccQAHnHQAB5x4AAecf8AH3HEAB9x0AAfceAAH3H/ABtwwCAUcMAg==</data>
+					<data>AbceEQGXHqABlx+RAYcegQFHDAI=</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>1</integer>
 					<key>WakeConfigData</key>
-					<data>AbcMAgFHDAI=</data>
+					<data>AUcMAg==</data>
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
