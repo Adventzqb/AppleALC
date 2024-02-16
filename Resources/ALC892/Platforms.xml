@@ -192,7 +192,7 @@
 									<key>MuteInputAmp</key>
 									<true/>
 									<key>PublishMute</key>
-									<false/>
+									<true/>
 									<key>PublishVolume</key>
 									<false/>
 									<key>VolumeInputAmp</key>
@@ -258,7 +258,7 @@
 									<key>MuteInputAmp</key>
 									<true/>
 									<key>PublishMute</key>
-									<false/>
+									<true/>
 									<key>PublishVolume</key>
 									<false/>
 									<key>VolumeInputAmp</key>
@@ -326,7 +326,7 @@
 									<key>MuteInputAmp</key>
 									<true/>
 									<key>PublishMute</key>
-									<false/>
+									<true/>
 									<key>PublishVolume</key>
 									<false/>
 									<key>VolumeInputAmp</key>
